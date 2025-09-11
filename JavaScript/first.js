@@ -46,3 +46,28 @@ login();
 getData();
 DisplayData();
 console.log("hell0 wait");
+
+function register1(){
+    setTimeout(() => {
+        console.log("register the code");
+    },2300);
+}
+function getEmail1(){
+    setTimeout(() => {
+        console.log("Email gotted");
+    },2300);
+}
+function Login1(){
+    setTimeout(() => {
+        console.log("Logged in");
+    },2300);
+}
+function DisplayData1(){
+    setTimeout(() => {
+        console.log("AsyncWait");
+    },2300);
+}
+register1();
+getEmail1();
+Login1();
+DisplayData1();
