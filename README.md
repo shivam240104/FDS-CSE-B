@@ -31,3 +31,6 @@ Promise-
   1.resolve state
   2.reject state
   3.running state
+
+  Event loop works-
+  
