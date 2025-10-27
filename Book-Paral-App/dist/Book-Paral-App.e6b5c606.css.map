@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["App.css"],"sourcesContent":[".card{\r\n    width: 400px;\r\n    height: 400px;\r\n    background-color: aqua;\r\n    color: gray;\r\n    border: 2px solid green;\r\n    border-radius: 10px;\r\n    padding: 20px;\r\n    text-align: center;\r\n}"],"names":[],"version":3,"file":"Book-Paral-App.e6b5c606.css.map","sourceRoot":"/__parcel_source_root/"}
